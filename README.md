@@ -1,8 +1,8 @@
-## 👋 Muhammad Wildan Aldiansyah
+## 👋 Aldiwildan
 
 Halo! I'm **Aldi**!
 
-I'm someone with experience working in the small projects of information technology. Skilled in Software Engineers especially Backend Development using NodeJs or Golang and Android Development using Java or Kotlin. I'm glad to work with a team, a fast learner, and an explorer. You can find me on [![Twitter][1.1]][1], [![LinkedIn][2.1]][2], and [![Discord][3.1]][3]
+I'm someone with experience working in the small projects of information technology. Skilled in Software Engineers especially Backend Development using NodeJs or Golang and Android Development using Java or Kotlin. I'm glad to work with a team, a fast learner, and an explorer. You can find me on [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -16,10 +16,10 @@ I'm someone with experience working in the small projects of information technol
 
 ## 🌱 Github Values
   <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiwildan77&hide=php,css,html&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiwildan77&hide=php,css,html&layout=compact&langs_count=8" />
   </a>
   <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aldiwildan's GitHub Values" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=27&count_private=true" alt="Aldiwildan's GitHub Values" />
   </a>
 
 <!-- icons without padding -->
