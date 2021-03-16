@@ -19,7 +19,7 @@ I'm someone with experience working in the small projects of information technol
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiwildan77&hide=php,css,html&layout=compact&langs_count=8" />
   </a>
   <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=27&count_private=true" alt="Aldiwildan's GitHub Values" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=23&count_private=true" alt="Aldiwildan's GitHub Values" />
   </a>
 
 <!-- icons without padding -->
