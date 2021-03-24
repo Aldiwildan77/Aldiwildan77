@@ -1,6 +1,6 @@
 ## 👋 Aldiwildan
 
-Halo! I'm **Aldi**!
+Halo! I'm **Aldi**! ![](https://komarev.com/ghpvc/?username=aldiwildan77)
 
 I'm someone with experience working in the small projects of information technology. Skilled in Software Engineers especially Backend Development using NodeJs or Golang and Android Development using Java or Kotlin. I'm glad to work with a team, a fast learner, and an explorer. You can find me on [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
 
