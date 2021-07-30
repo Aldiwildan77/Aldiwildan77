@@ -11,16 +11,13 @@ I'm someone with experience working in the small projects of information technol
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## 🌱 Github Values
   <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiwildan77&hide=php,css,html&layout=compact&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiwildan77&hide=php,css,html&layout=compact&langs_count=8&hide_border=true&hide_title=true" />
   </a>
   <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=24&count_private=true" alt="Aldiwildan's GitHub Values" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=24&count_private=true&hide_border=true&hide_title=true" alt="Aldiwildan's GitHub Values" />
   </a>
 
 <!-- icons without padding -->
