@@ -25,4 +25,7 @@ I'm a **Software Engineer** at [majoo Indonesia](https://majoo.id), an entrepren
 ## 🔧 Technologies & Tools
 *GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, & Postman*
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <sub>Credit: Aldiwildan, last edit on - 24 Nov 2021</sub>
