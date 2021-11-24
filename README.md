@@ -1,31 +1,28 @@
-## 👋 Aldiwildan
+<!-- Greetings -->
+## 👋 Greetings, I'm Aldi!
 
-Halo! I'm **Aldi**!
+<!-- Social Media -->
+[![Linkedin](https://img.shields.io/badge/-aldiwildan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldiwildan/)
+[![Gmail](https://img.shields.io/badge/-aldiwild77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aldiwild77@gmail.com)
+[![Discord](https://img.shields.io/badge/-Chroma-5663F7?style=flat&logo=Discord&logoColor=white)](https://discord.gg/BUxraQ8)
+![](https://komarev.com/ghpvc/?username=aldiwildan77&label=Visitor&color=2bbc8a)
 
-I'm someone with experience working in the small projects of information technology. Skilled in Software Engineers especially Backend Development using NodeJs or Golang and Android Development using Java or Kotlin. I'm glad to work with a team, a fast learner, and an explorer. You can find me on [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
+<!-- Introduction -->
+I'm a **Software Engineer** at [majoo Indonesia](https://majoo.id), an entrepreneurship application that focuses on MSMEs in Indonesia, where I build production-ready modules that provide enterprise resource planning for majoo's users. Outside of work, I run freelance web and mobile development projects.
+
+## 📃 Things (to / wanna) do
+- 🐝 I have worked on several side projects on a web and mobile development
+- ⚡ I'm currently build my own game service like Minecraft & Rust
+- 🌱 I'm looking to get more familiar with AWS ecosystems
+- ♨️ I'm interested with augmented, virtual, and mixed reality
+
+## 📊 Languages
+- ✨ Backend Development: **Golang & NodeJS**
+- ✨ Frontend Development: **Javascript**
+- ✨ Mobile Development: **Kotlin & Java**
+- ✨ Game Development: **Denizen & Java**
 
 ## 🔧 Technologies & Tools
-![](https://komarev.com/ghpvc/?username=aldiwildan77&label=Visitor&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+*GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, & Postman*
 
-## 🌱 Github Values
-  <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiwildan77&hide=php,css,html&layout=compact&langs_count=8&hide_border=true&hide_title=true" />
-  </a>
-  <a href="https://github.com/Aldiwildan77/Aldiwildan77">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwildan77&show_icons=true&line_height=24&count_private=true&hide_border=true&hide_title=true" alt="Aldiwildan's GitHub Values" />
-  </a>
-
-<!-- icons without padding -->
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter)
-[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (linkedIn)
-[3.1]: https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-24.png (discord)
-
-<!-- links to your social media accounts -->
-[1]: https://twitter.com/bungpaidy
-[2]: https://www.linkedin.com/in/aldiwildan/
-[3]: https://discord.gg/BUxraQ8
+<sub>Credit: Aldiwildan, last edit on - 24 Nov 2021</sub>
