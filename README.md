@@ -23,7 +23,7 @@ I'm a **Software Engineer** at [majoo Indonesia](https://majoo.id), an entrepren
 - ✨ Game Development: **Denizen & Java**
 
 ## 🔧 Technologies & Tools
-*GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, & Postman*
+*GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, React, & Postman*
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
