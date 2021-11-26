@@ -28,3 +28,4 @@ jobs:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"
