@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=aldiwildan77&label=Visitor&color=2bbc8a)
 
 <!-- Introduction -->
-I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work. Outside my office I run a freelance web and mobile development projects.
+I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I run a freelance web and mobile development projects.
 
 ## 📃 Things (to / wanna) do
 - 🐝 I have worked on several side projects on a web and mobile development
