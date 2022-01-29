@@ -15,6 +15,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium s
 - ⚡ I'm currently build my own game service like Minecraft & Rust
 - 🌱 I'm looking to get more familiar with AWS ecosystems
 - ♨️ I'm interested with augmented, virtual, and mixed reality
+- 🤔 I'm still curious should I go to JetBrains tools? Any Suggest? DM!
 
 ## 📊 Languages
 - ✨ Backend Development: **Golang & NodeJS**
@@ -23,7 +24,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium s
 - ✨ Game Development: **Denizen & Java**
 
 ## 🔧 Technologies & Tools
-*GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, React, & Postman*
+*GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, React, GRPC, & Postman*
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
