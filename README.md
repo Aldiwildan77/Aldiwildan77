@@ -18,7 +18,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium s
 
 ## 📊 Languages
 - ✨ Backend Development: **Golang & NodeJS**
-- ✨ Frontend Development: **Javascript**
+- ✨ Frontend Development: **Javascript & Typescript**
 - ✨ Mobile Development: **Kotlin & Java**
 - ✨ Game Development: **Denizen & Java**
 
