@@ -23,7 +23,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium s
 - ✨ Game Development: **Denizen & Java**
 
 ## 🔧 Technologies & Tools
-*GraphQL, Redis, MySQL, Postgres, RabbitMQ, Kafka, Kubernetes, Docker, Nginx, React, GRPC, Firebase, Laravel, & Postman*
+*GraphQL, Redis, MySQL, Postgres, RabbitMQ, Kafka, Kubernetes, Docker, Nginx, React, GRPC, Firebase, Laravel, Postman, etc.*
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
