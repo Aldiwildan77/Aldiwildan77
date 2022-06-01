@@ -11,10 +11,9 @@
 I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I run a freelance web and mobile development projects, but mostly I learn about backend in depth.
 
 ## 📃 Things (to / wanna) do
-- 🐝 I have worked on several side projects on a web and mobile development
-- ⚡ I'm currently build my own game service like Minecraft & Rust
-- 🌱 I'm looking to get more familiar with AWS ecosystems
-- ♨️ I'm interested with augmented, virtual, and mixed reality
+- 🐝 Make my own digital business
+- ⚡ Visit Switzerland, it seems fit to me in a quiet place
+- 🌱 Revisit this section 😆
 
 ## 📊 Languages
 - ✨ Backend Development: **Golang & NodeJS**
@@ -83,4 +82,4 @@ PHP                      4 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sub>Credit: Aldiwildan, last edit on - 3 May 2022</sub>
+<sub>Credit: Aldiwildan, last edit on - 1 June 2022</sub>
