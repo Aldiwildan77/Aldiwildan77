@@ -6,6 +6,9 @@
 [![Gmail](https://img.shields.io/badge/-aldiwild77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aldiwild77@gmail.com)
 [![Discord](https://img.shields.io/badge/-Chroma-5663F7?style=flat&logo=Discord&logoColor=white)](https://discord.gg/BUxraQ8)
 ![](https://komarev.com/ghpvc/?username=aldiwildan77&label=Visitor&color=2bbc8a)
+<a href="https://top.gg/bot/987974524140146728">
+  <img src="https://top.gg/api/widget/owner/987974524140146728.svg">
+</a>
 
 <!-- Introduction -->
 I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I run a freelance web and mobile development projects, but mostly I learn about backend in depth.
