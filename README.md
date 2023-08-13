@@ -21,11 +21,12 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium s
 ## 📊 Languages
 - ✨ Backend Development: **Golang & NodeJS**
 - ✨ Frontend Development: **Javascript & Typescript**
+- ✨ Desktop Development: **Javascript & Typescript**
 - ✨ Mobile Development: **Kotlin & Java**
 - ✨ Game Development: **Denizen & Java**
 
 ## 🔧 Technologies & Tools
-*GraphQL, Redis, MySQL, Postgres, RabbitMQ, Kafka, Kubernetes, Docker, Nginx, React, GRPC, Firebase, Laravel, Postman, etc.*
+*GraphQL, Redis, MySQL, Postgres, Electron, RabbitMQ, Kafka, Kubernetes, Docker, Nginx, React, GRPC, Firebase, Laravel, Postman, etc.*
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2014%20mins-blue)
@@ -82,4 +83,4 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sub>Credit: Aldiwildan, last edit on - 11 April 2023</sub>
+<sub>Credit: Aldiwildan, last edit on - 13 Aug 2023</sub>
