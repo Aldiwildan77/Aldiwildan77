@@ -13,8 +13,6 @@
 <!-- Introduction -->
 I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium service focuses on helping students understand school curriculums, as well as helping with exams, particularly standardized tests. Outside work, I run freelance web, mobile, desktop development, and machine learning projects. I also manage projects, handle clients, and build products. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldiwildan77&label=Profile%20views&color=0e75b6&style=flat" alt="aldiwildan77" /> </p>
-
 ## 📃 Things (to / wanna / must) do
 - 🐝 Consistent with my own business
 - ⚡ Visit Singapore, Switzerland, and Asia Countries
