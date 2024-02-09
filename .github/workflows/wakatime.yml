@@ -15,8 +15,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 10
+          CODE_LANG: go
           TIME_RANGE: all_time
