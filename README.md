@@ -30,6 +30,22 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 *GraphQL, Redis, MySQL, Postgres, Electron, RabbitMQ, Kafka, Kubernetes, Docker, Nginx, React, GRPC, Firebase, Laravel, Postman, etc.*
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 1,914 hrs 13 mins
+
+Go                         1,090 hrs       ██████████████░░░░░░░░░░░   55.97 %
+Python                     223 hrs         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+TypeScript                 215 hrs 50 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Protocol Buffer            85 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+YAML                       55 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Bash                       42 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+PHP                        36 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Other                      33 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+CSV                        26 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+SQL                        24 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+```
+
 <!--END_SECTION:waka-->
 
 <sub>Credit: Aldiwildan, last edit on - 09 Feb 2024</sub>
