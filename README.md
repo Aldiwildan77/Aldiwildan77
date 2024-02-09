@@ -29,4 +29,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 ## 🔧 Technologies & Tools
 *GraphQL, Redis, MySQL, Postgres, Electron, RabbitMQ, Kafka, Kubernetes, Docker, Nginx, React, GRPC, Firebase, Laravel, Postman, etc.*
 
-<sub>Credit: Aldiwildan, last edit on - 20 Jan 2024</sub>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>Credit: Aldiwildan, last edit on - 09 Feb 2024</sub>
