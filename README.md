@@ -34,9 +34,9 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 23 November 2021 - To: 25 June 2024
+From: 23 November 2021 - To: 26 June 2024
 
-Total Time: 2,385 hrs 51 mins
+Total Time: 2,385 hrs 56 mins
 
 Go                         1,240 hrs 44 mins████████████▓░░░░░░░░░░░░   51.10 %
 TypeScript                 369 hrs 16 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
