@@ -22,7 +22,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - ✨ Backend Development: **Golang, NodeJS (Typescript & Javascript), Python, and PHP**
 - ✨ Frontend Development: **Javascript & Typescript (ReactJS)**
 - ✨ Desktop Development: **Javascript & Typescript (Electron)**
-- ✨ Machine Learning: **Python**
+- ✨ Machine Learning & Deep Learning: **Python, OpenCV, Pytorch, Optuna**
 - ✨ Mobile Development: **Kotlin & Java**
 - ✨ Game Development: **Denizen & Java**
 
@@ -66,4 +66,4 @@ CSV                        46 hrs 41 mins  ▒░░░░░░░░░░░�
 ## GitHub Profile Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldiwildan77" alt="aldiwildan77" /></a> </p>
 
-<sub>Credit: Aldiwildan, last edit on - 21 Nov 2024</sub>
+<sub>Credit: Aldiwildan, last edit on - 13 Apr 2025</sub>
