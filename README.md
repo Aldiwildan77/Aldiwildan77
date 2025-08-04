@@ -14,7 +14,7 @@
 I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium service focuses on helping students understand school curriculums, as well as helping with exams, particularly standardized tests. Outside work, I run freelance web, mobile, desktop development, and machine learning projects. I also manage projects, handle clients, and build products. 
 
 ## 📃 Things (to / wanna / must) do
-- 🐝 Consistent with my own business ([Nyuemil](https://nyuemil.com)
+- 🐝 Consistent with my own business ([Nyuemil](https://nyuemil.com))
 - ⚡ Visit Singapore, Japan, Switzerland, and World-wide Countries
 - 🌱 Revisit this section 😆
 
