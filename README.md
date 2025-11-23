@@ -45,17 +45,17 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 23 November 2021 - To: 21 November 2025
+From: 23 November 2021 - To: 22 November 2025
 
-Total Time: 3,568 hrs 24 mins
+Total Time: 3,569 hrs 3 mins
 
-Go                         1,545 hrs 12 mins██████████▓░░░░░░░░░░░░░░   42.23 %
+Go                         1,545 hrs 51 mins██████████▓░░░░░░░░░░░░░░   42.24 %
 TypeScript                 603 hrs 27 mins ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
 Python                     599 hrs 42 mins ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
 SQL                        156 hrs 18 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 Protocol Buffer            104 hrs 8 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 YAML                       96 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Other                      90 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other                      90 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 Bash                       88 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 JSON                       68 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 CSV                        55 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
