@@ -26,6 +26,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - ✨ Machine Learning & Deep Learning: **Python, OpenCV, Pytorch, Optuna**
 - ✨ Mobile Development: **Kotlin & Java**
 - ✨ Game Development: **Denizen & Java**
+- ✨ Financial Market: **TradingView** (Struggle learner 😅)
 
 ## 🔧 Technologies & Tools
 ### Web2
@@ -38,7 +39,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 
 ## 🏆 Badges
 <div style="height: auto">
-  <a href="https://app.daily.dev/aldiwildan_"><img src="https://api.daily.dev/devcards/v2/Uvv0MqMT0PNtx9ynS9F2a.png?type=default&r=ulr" width="306" alt="Muhammad Wildan Aldiansyah's Dev Card"/></a>
+  <!-- <a href="https://app.daily.dev/aldiwildan_"><img src="https://api.daily.dev/devcards/v2/Uvv0MqMT0PNtx9ynS9F2a.png?type=default&r=ulr" width="306" alt="Muhammad Wildan Aldiansyah's Dev Card"/></a> -->
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/666f0f9a5a1e5ea6c275bc8e?variant=light" alt="roadmap.sh"/></a>
 </div>
 
