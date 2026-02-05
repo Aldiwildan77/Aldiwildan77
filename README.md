@@ -15,7 +15,8 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 
 ## 📃 Things (to / wanna / must) do
 - 🐝 Consistent with my own business ([Nyuemil](https://nyuemil.com))
-- ⚡ Visit Singapore, Japan, Switzerland, and World-wide Countries
+- 🛫 Constantly bouncing between Japan and Indonesia
+- ⚡ Visit Makkah, United States, Switzerland, and World-wide Countries
 - 🌱 Revisit this section 😆
 
 ## 📊 Weapons
