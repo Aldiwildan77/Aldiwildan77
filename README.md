@@ -47,20 +47,20 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 23 November 2021 - To: 24 February 2026
+From: 23 November 2021 - To: 25 February 2026
 
-Total Time: 3,798 hrs 32 mins
+Total Time: 3,806 hrs 12 mins
 
-Go                         1,560 hrs 57 mins     ██████████░░░░░░░░░░░░░░░   39.88 %
-TypeScript                 650 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Python                     625 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-SQL                        187 hrs 15 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-PHP                        116 hrs 56 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Other                      116 hrs 1 min         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Protocol Buffer            104 hrs 24 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-YAML                       98 hrs 57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Bash                       95 hrs 21 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-JSON                       73 hrs 42 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Go                         1,561 hrs 1 min       ██████████░░░░░░░░░░░░░░░   39.79 %
+TypeScript                 653 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Python                     626 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+SQL                        189 hrs 47 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+PHP                        117 hrs 37 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Other                      116 hrs 50 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Protocol Buffer            104 hrs 24 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+YAML                       98 hrs 57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Bash                       95 hrs 26 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON                       73 hrs 45 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:wakatime-->
