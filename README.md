@@ -47,7 +47,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 23 November 2021 - To: 07 March 2026
+From: 23 November 2021 - To: 08 March 2026
 
 Total Time: 3,849 hrs 3 mins
 
