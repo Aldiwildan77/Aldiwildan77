@@ -20,37 +20,11 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - 🌱 Revisit this section 😆
 
 ## 📖 My Latest Blog
-<!-- BLOG-POST-LIST:START --><div style="display: flex; align-items: flex-start; margin-bottom: 12px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-  <div style="font-weight: bold; font-size: 20px; color: #586069; margin-right: 12px; padding-top: 12px;">
-    $index.
-  </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; flex: 1; min-width: 0;">
-    <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
-      Designed State-Machines to Manage App Flow Reliably
-    </a>
-    <span style="color: #586069; font-size: 13px;">Aug 16, 2025</span>
-  </div>
-</div><div style="display: flex; align-items: flex-start; margin-bottom: 12px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-  <div style="font-weight: bold; font-size: 20px; color: #586069; margin-right: 12px; padding-top: 12px;">
-    $index.
-  </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; flex: 1; min-width: 0;">
-    <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
-      How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;
-    </a>
-    <span style="color: #586069; font-size: 13px;">Jul 18, 2025</span>
-  </div>
-</div><div style="display: flex; align-items: flex-start; margin-bottom: 12px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-  <div style="font-weight: bold; font-size: 20px; color: #586069; margin-right: 12px; padding-top: 12px;">
-    $index.
-  </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; flex: 1; min-width: 0;">
-    <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
-      How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah
-    </a>
-    <span style="color: #586069; font-size: 13px;">Jul 7, 2025</span>
-  </div>
-</div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Designed State-Machines to Manage App Flow Reliably](https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2)
+- [How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;](https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2)
+- [How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah](https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weapons
 - ✨ Backend Development: **Golang, NodeJS (Typescript & Javascript), Python, and PHP**
