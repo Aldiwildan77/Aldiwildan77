@@ -19,18 +19,17 @@ jobs:
           custom_tags: "content:encoded/img/@src/postImage"
           date_format: "mmm d, yyyy"
           template: |
-            <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
-              <div style="margin-right: 15px;">
+            <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; align-items: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+              <div style="margin-right: 16px; flex-shrink: 0;">
                 <a href="$url">
-                  <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+                  <img src="$postImage" width="150px" height="90px" style="border-radius: 8px; object-fit: cover; border: 1px solid #f0f0f0;">
                 </a>
               </div>
-              <div style="flex: 1;">
-                <a href="$url" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+              <div style="flex: 1; min-width: 0;">
+                <a href="$url" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
                   $title
                 </a>
-                <br/>
-                <span style="color: #586069; font-size: 12px;">$date</span>
+                <span style="color: #586069; font-size: 13px;">$date</span>
               </div>
             </div>
-          committer_email: "aldiwild77@gmail.com"
+        committer_email: "aldiwild77@gmail.com"
