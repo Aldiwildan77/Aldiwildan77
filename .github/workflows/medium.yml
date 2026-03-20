@@ -16,4 +16,20 @@ jobs:
           feed_list: "https://medium.com/feed/@aldiwildan"
           commit_message: "Updated README with latest Medium posts"
           max_post_count: 3
-          # comment_tag_name: "BLOG-POST-LIST"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+              <tr>
+                <td width="160px" valign="top">
+                  <a href="$url">
+                    <img src="https://medium.com" width="140px" style="border-radius: 8px;">
+                  </a>
+                </td>
+                <td valign="top">
+                  <a href="$url"><b>$title</b></a><br/>
+                  <small>$date</small><br/>
+                  <p>$description</p>
+                </td>
+              </tr>
+            </table>
+          committer_email: "aldiwild77@gmail.com"
