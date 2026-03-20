@@ -16,20 +16,21 @@ jobs:
           feed_list: "https://medium.com/feed/@aldiwildan"
           commit_message: "Updated README with latest Medium posts"
           max_post_count: 3
+          custom_tags: "content:encoded/img/@src/postImage"
           date_format: "mmm d, yyyy"
           template: |
-            <table>
-              <tr>
-                <td width="160px" valign="top">
-                  <a href="$url">
-                    <img src="https://medium.com" width="140px" style="border-radius: 8px;">
-                  </a>
-                </td>
-                <td valign="top">
-                  <a href="$url"><b>$title</b></a><br/>
-                  <small>$date</small><br/>
-                  <p>$description</p>
-                </td>
-              </tr>
-            </table>
+            <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
+              <div style="margin-right: 15px;">
+                <a href="$url">
+                  <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+                </a>
+              </div>
+              <div style="flex: 1;">
+                <a href="$url" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+                  $title
+                </a>
+                <br/>
+                <span style="color: #586069; font-size: 12px;">$date</span>
+              </div>
+            </div>
           committer_email: "aldiwild77@gmail.com"
