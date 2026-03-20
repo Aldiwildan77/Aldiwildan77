@@ -19,6 +19,10 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - ⚡ Visit Makkah, United States, Switzerland, and World-wide Countries with my wife
 - 🌱 Revisit this section 😆
 
+## 📖 My Latest Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📊 Weapons
 - ✨ Backend Development: **Golang, NodeJS (Typescript & Javascript), Python, and PHP**
 - ✨ Frontend Development: **Javascript & Typescript (ReactJS)**
