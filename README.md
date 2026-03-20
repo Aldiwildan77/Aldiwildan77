@@ -20,44 +20,41 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - 🌱 Revisit this section 😆
 
 ## 📖 My Latest Blog
-<!-- BLOG-POST-LIST:START --><div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
-  <div style="margin-right: 15px;">
+<!-- BLOG-POST-LIST:START --><div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; align-items: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+  <div style="margin-right: 16px; flex-shrink: 0;">
     <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2">
-      <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+      <img src="$postImage" width="150px" height="90px" style="border-radius: 8px; object-fit: cover; border: 1px solid #f0f0f0;">
     </a>
   </div>
-  <div style="flex: 1;">
-    <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+  <div style="flex: 1; min-width: 0;">
+    <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
       Designed State-Machines to Manage App Flow Reliably
     </a>
-    <br/>
-    <span style="color: #586069; font-size: 12px;">Aug 16, 2025</span>
+    <span style="color: #586069; font-size: 13px;">Aug 16, 2025</span>
   </div>
-</div><div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
-  <div style="margin-right: 15px;">
+</div><div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; align-items: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+  <div style="margin-right: 16px; flex-shrink: 0;">
     <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2">
-      <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+      <img src="$postImage" width="150px" height="90px" style="border-radius: 8px; object-fit: cover; border: 1px solid #f0f0f0;">
     </a>
   </div>
-  <div style="flex: 1;">
-    <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+  <div style="flex: 1; min-width: 0;">
+    <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
       How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;
     </a>
-    <br/>
-    <span style="color: #586069; font-size: 12px;">Jul 18, 2025</span>
+    <span style="color: #586069; font-size: 13px;">Jul 18, 2025</span>
   </div>
-</div><div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
-  <div style="margin-right: 15px;">
+</div><div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; align-items: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+  <div style="margin-right: 16px; flex-shrink: 0;">
     <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2">
-      <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+      <img src="$postImage" width="150px" height="90px" style="border-radius: 8px; object-fit: cover; border: 1px solid #f0f0f0;">
     </a>
   </div>
-  <div style="flex: 1;">
-    <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+  <div style="flex: 1; min-width: 0;">
+    <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
       How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah
     </a>
-    <br/>
-    <span style="color: #586069; font-size: 12px;">Jul 7, 2025</span>
+    <span style="color: #586069; font-size: 13px;">Jul 7, 2025</span>
   </div>
 </div><!-- BLOG-POST-LIST:END -->
 
