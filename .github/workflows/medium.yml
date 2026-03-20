@@ -19,8 +19,11 @@ jobs:
           custom_tags: "content:encoded/img/@src/postImage"
           date_format: "mmm d, yyyy"
           template: |
-            <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; align-items: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-              <div style="flex: 1; min-width: 0;">
+            <div style="display: flex; align-items: flex-start; margin-bottom: 12px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+              <div style="font-weight: bold; font-size: 20px; color: #586069; margin-right: 12px; padding-top: 12px;">
+                $index.
+              </div>
+              <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; flex: 1; min-width: 0;">
                 <a href="$url" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
                   $title
                 </a>
