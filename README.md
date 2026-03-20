@@ -20,11 +20,46 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - 🌱 Revisit this section 😆
 
 ## 📖 My Latest Blog
-<!-- BLOG-POST-LIST:START -->
-- [Designed State-Machines to Manage App Flow Reliably](https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2)
-- [How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;](https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2)
-- [How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah](https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><table>
+  <tr>
+    <td width="160px" valign="top">
+      <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2">
+        <img src="https://medium.com" width="140px" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2"><b>Designed State-Machines to Manage App Flow Reliably</b></a><br/>
+      <small>Aug 16, 2025</small><br/>
+      <p></p>
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td width="160px" valign="top">
+      <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2">
+        <img src="https://medium.com" width="140px" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2"><b>How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;</b></a><br/>
+      <small>Jul 18, 2025</small><br/>
+      <p></p>
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td width="160px" valign="top">
+      <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2">
+        <img src="https://medium.com" width="140px" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2"><b>How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah</b></a><br/>
+      <small>Jul 7, 2025</small><br/>
+      <p></p>
+    </td>
+  </tr>
+</table><!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weapons
 - ✨ Backend Development: **Golang, NodeJS (Typescript & Javascript), Python, and PHP**
