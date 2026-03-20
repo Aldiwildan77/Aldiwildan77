@@ -20,46 +20,46 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 - 🌱 Revisit this section 😆
 
 ## 📖 My Latest Blog
-<!-- BLOG-POST-LIST:START --><table>
-  <tr>
-    <td width="160px" valign="top">
-      <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2">
-        <img src="https://medium.com" width="140px" style="border-radius: 8px;">
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2"><b>Designed State-Machines to Manage App Flow Reliably</b></a><br/>
-      <small>Aug 16, 2025</small><br/>
-      <p></p>
-    </td>
-  </tr>
-</table><table>
-  <tr>
-    <td width="160px" valign="top">
-      <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2">
-        <img src="https://medium.com" width="140px" style="border-radius: 8px;">
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2"><b>How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;</b></a><br/>
-      <small>Jul 18, 2025</small><br/>
-      <p></p>
-    </td>
-  </tr>
-</table><table>
-  <tr>
-    <td width="160px" valign="top">
-      <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2">
-        <img src="https://medium.com" width="140px" style="border-radius: 8px;">
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2"><b>How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah</b></a><br/>
-      <small>Jul 7, 2025</small><br/>
-      <p></p>
-    </td>
-  </tr>
-</table><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
+  <div style="margin-right: 15px;">
+    <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2">
+      <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+      Designed State-Machines to Manage App Flow Reliably
+    </a>
+    <br/>
+    <span style="color: #586069; font-size: 12px;">Aug 16, 2025</span>
+  </div>
+</div><div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
+  <div style="margin-right: 15px;">
+    <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2">
+      <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+      How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;
+    </a>
+    <br/>
+    <span style="color: #586069; font-size: 12px;">Jul 18, 2025</span>
+  </div>
+</div><div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; align-items: flex-start;">
+  <div style="margin-right: 15px;">
+    <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2">
+      <img src="$postImage" width="140px" style="border-radius: 6px; object-fit: cover; aspect-ratio: 16/9;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2" style="text-decoration: none; color: #0366d6; font-weight: bold; font-size: 16px;">
+      How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah
+    </a>
+    <br/>
+    <span style="color: #586069; font-size: 12px;">Jul 7, 2025</span>
+  </div>
+</div><!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weapons
 - ✨ Backend Development: **Golang, NodeJS (Typescript & Javascript), Python, and PHP**
