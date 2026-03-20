@@ -20,11 +20,6 @@ jobs:
           date_format: "mmm d, yyyy"
           template: |
             <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; align-items: center; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-              <div style="margin-right: 16px; flex-shrink: 0;">
-                <a href="$url">
-                  <img src="$postImage" width="150px" height="90px" style="border-radius: 8px; object-fit: cover; border: 1px solid #f0f0f0;">
-                </a>
-              </div>
               <div style="flex: 1; min-width: 0;">
                 <a href="$url" style="text-decoration: none; color: #0366d6; font-weight: 600; font-size: 16px; display: block; margin-bottom: 4px;">
                   $title
