@@ -21,6 +21,9 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 
 ## 📖 My Latest Blog
 <!-- BLOG-POST-LIST:START -->
+- [Designed State-Machines to Manage App Flow Reliably](https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2)
+- [How We Made It Talk — Handled Async Communication with Server Sent Events &lpar;SSE&rpar;](https://aldiwildan.medium.com/how-we-made-it-talk-handled-async-communication-with-server-sent-events-sse-582091b286c8?source=rss-12e827659956------2)
+- [How We Built a Profitable Photobooth System That Earned Hundreds of Millions of Rupiah](https://aldiwildan.medium.com/how-we-built-a-profitable-photobooth-system-that-earned-hundreds-of-millions-of-rupiah-by-3266df2c65fd?source=rss-12e827659956------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weapons
