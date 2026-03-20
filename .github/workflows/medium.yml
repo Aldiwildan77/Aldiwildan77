@@ -15,6 +15,6 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@aldiwildan"
           commit_message: "Updated README with latest Medium posts"
-          max_post_count: 3
+          max_post_count: 10
           date_format: "mmm d, yyyy"
           committer_email: "aldiwild77@gmail.com"
