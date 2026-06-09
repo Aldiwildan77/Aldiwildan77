@@ -21,6 +21,7 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 
 ## 📖 My Latest Blog
 <!-- BLOG-POST-LIST:START -->
+- [Graceful Shutdown in Go: Patterns, Trade-offs, and Best Practices](https://blog.stackademic.com/graceful-shutdown-in-go-patterns-trade-offs-and-best-practices-738d799630b8?source=rss-12e827659956------2)
 - [How Win32 API Stopped User Tampering in Our Kiosk App](https://aldiwildan.medium.com/how-win32-api-stopped-user-tampering-in-our-kiosk-app-e7e9c041d803?source=rss-12e827659956------2)
 - [Why Good Engineers Think About Business &lpar;Not Just Code&rpar;](https://blog.stackademic.com/why-good-engineers-think-about-business-not-just-code-5566089d348e?source=rss-12e827659956------2)
 - [Designed State-Machines to Manage App Flow Reliably](https://aldiwildan.medium.com/designed-state-machines-to-manage-app-flow-reliably-acd4aa1f47b8?source=rss-12e827659956------2)
