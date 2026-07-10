@@ -42,14 +42,14 @@ I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium s
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 23 November 2021 - To: 08 July 2026
+From: 23 November 2021 - To: 09 July 2026
 
-Total Time: 4,237 hrs 56 mins
+Total Time: 4,239 hrs 42 mins
 
-Go                         1,617 hrs 50 mins     █████████▒░░░░░░░░░░░░░░░   37.07 %
-TypeScript                 759 hrs 2 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-Python                     711 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-SQL                        241 hrs 11 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Go                         1,617 hrs 50 mins     █████████▒░░░░░░░░░░░░░░░   37.05 %
+TypeScript                 759 hrs 10 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+Python                     711 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+SQL                        242 hrs 45 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 PHP                        145 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 Other                      126 hrs 40 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 YAML                       122 hrs 7 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
