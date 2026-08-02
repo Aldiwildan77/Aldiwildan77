@@ -11,12 +11,12 @@
 </a>
 
 <!-- Introduction -->
-I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com). The premium service focuses on helping students understand school curriculums, as well as helping with exams, particularly standardized tests. Outside work, I run freelance web, mobile, desktop development, and machine learning projects. I also manage projects, handle clients, and build products. 
+Software Engineer with 6+ years of experience designing, building, and operating scalable distributed systems and microservices. Skilled in Golang, Python, gRPC, PostgreSQL, MySQL, Redis, Kafka, Docker, Kubernetes, and cloud platforms. Experienced in workflow orchestration, platform engineering, data pipelines, search infrastructure, performance optimization, and production operations for systems serving millions of users and processing hundreds of millions of transactions.
 
 ## 📃 Things (to / wanna / must) do
-- 🐝 Consistent with my own business ([Nyuemil](https://nyuemil.com))
-- 🛫 Constantly bouncing between Japan and Indonesia with my wife
-- ⚡ Visit Makkah, United States, Switzerland, and World-wide Countries with my wife
+- 🐝 Consistent with my own businesses ([Nyuemil](https://nyuemil.com)) and ([mocha bot](https://mocha-bot.xyz))
+- 🛫 Constantly bouncing between 🇯🇵 and 🇮🇩 with my wife
+- ⚡ Visit Makkah, Switzerland, and European Union Countries with my wife
 - 🌱 Revisit this section 😆
 
 ## 📖 My Latest Blog
@@ -60,4 +60,4 @@ JSON                       92 hrs 44 mins        ▓░░░░░░░░░�
 
 <!--END_SECTION:wakatime-->
 
-<sub>Credit: Aldiwildan, last edit on - 20 March 2026</sub>
+<sub>Credit: Aldiwildan, last edit on - 2 August 2026</sub>
