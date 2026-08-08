@@ -42,7 +42,7 @@ Software Engineer with 6+ years of experience designing, building, and operating
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 23 November 2021 - To: 06 August 2026
+From: 23 November 2021 - To: 07 August 2026
 
 Total Time: 4,375 hrs 49 mins
 
